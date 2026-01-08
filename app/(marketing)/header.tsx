@@ -1,4 +1,4 @@
-import { Ghost, Loader } from "lucide-react";
+import { Loader } from "lucide-react";
 import {
   ClerkLoaded,
   ClerkLoading,
